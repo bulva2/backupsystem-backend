@@ -6,6 +6,7 @@ This project is the backend for an automatic backup system created as my school 
 The backend is built using ASP.NET Core and leverages JWT tokens for secure authentication on the frontend part of this project.
 
 This project <ins>**isn't complete production ready software**</ins> and should be only used as a reference for future projects. Originally this project was stored on a private GitLab repo.
+Take into consideration that this iy my completely first ASP.NET backend project, so any feedback is more than welcome. ^^
 
 ## Technologies Used
 
